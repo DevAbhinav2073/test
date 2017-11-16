@@ -1,3 +1,4 @@
 function main(){
-  alert("this is  alert");
-}
+console.log("Hello console");
+};
+main();
